@@ -1,4 +1,4 @@
-# NekoEngine (ECS) - Really early state
+# NekoEngine - Really early state
  
 You can download and try it. Actually it has a demo where a square move in screen.
 
